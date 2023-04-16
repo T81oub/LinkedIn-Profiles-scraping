@@ -1,6 +1,8 @@
 # LinkedIn-Profiles-scraping
 
 This is a Python script for scraping LinkedIn profiles to extract information about a user's work experience, education, and skills. It uses the Selenium and BeautifulSoup libraries to automate the process of logging into LinkedIn and navigating to each user's profile page, and then extracts relevant information using web scraping techniques.
+
+
 ![Alt Text](LinkedIn.jpg)
 
 ## Getting Started
